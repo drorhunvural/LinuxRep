@@ -1,0 +1,8 @@
+24579,Andrew Johnson,Raleigh,NC
+76589,Ulyses Grant,Point Pleasant,OH
+11339,Grover Cleveland,Caldwell,NJ
+45231,William McKinley,Nils,OH
+86210,Rutherford Hayes,Delaware,OH
+00871,Herbert Hoover,West Branch,IA
+33001,Martin Van Buren,Kinderhook,NY
+79442,John Adams,Braintree,MA

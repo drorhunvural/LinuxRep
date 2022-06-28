@@ -1,0 +1,16 @@
+1789,home appliance,1
+1789,office supplies,2
+6520,Garden tools,1
+2334,sports equipment,3
+1122,furniture,1
+1234,computer part,1
+6543,decoration item,2
+7245,picture frame,2
+8833,kitchen item,1
+5539,alarm clock,1
+9001,book,1
+1789,Garden tools,2
+6520,furniture,3
+6543,kitchen item,2
+7245,book,1
+6543,sports equipment,2
